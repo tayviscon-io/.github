@@ -1,0 +1,1 @@
+<p align="center"><img width=70% src="../mascots-logo.png"></p>
