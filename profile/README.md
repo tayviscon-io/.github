@@ -1,4 +1,4 @@
-<p align="center"><img width=70% src="../mascots-logo.png"></p>
+<p align="center"><img width=70% src="../tayviscon-mascots-long-logo.svg"></p>
 
 ## Tayviscon IO: Open Source
 В компании Tayviscon мы создаем проекты с открытым исходным кодом,
